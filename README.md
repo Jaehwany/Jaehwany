@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jaehwany)](https://velog.io/@jaehwany)
+<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaehwany)](https://velog.io/@jaehwany/posts)
