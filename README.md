@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaehwany)](벨로그링크)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaehwany)](https://velog.io/@jaehwany/posts)
